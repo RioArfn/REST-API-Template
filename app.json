@@ -1,0 +1,28 @@
+{
+    "id": "12345678-1234-1234-1234-123456789012",
+    "name": "Template REST API",
+    "publisher": "Rio Arifin",
+    "version": "1.0.0.0",
+    "brief": "Template REST API for Microsoft Dynamics 365 Business Central",
+    "description": "Template REST API for Microsoft Dynamics 365 Business Central",
+    "privacyStatement": "",
+    "EULA": "",
+    "help": "https://github.com/RioArfn/REST-API-Template",
+    "url": "https://github.com/RioArfn/REST-API-Template",
+    "dependencies": [],
+    "screenshots": [],
+    "platform": "27.0.0.0",
+    "application": "27.0.0.0",
+    "target": "Cloud",
+    "idRanges": [
+        {
+            "from": 90000,
+            "to": 90010
+        }
+    ],
+    "resourceExposurePolicy": {
+        "allowDebugging": true,
+        "allowDownloadingSource": true
+    },
+    "runtime": "16.0"
+}
